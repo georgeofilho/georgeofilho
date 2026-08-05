@@ -1,0 +1,38 @@
+name: Update README with SysAdmin Repos
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Executa de hora em hora (no minuto 0 de cada hora)
+  workflow_dispatch: # Permite executar o script manualmente pela aba "Actions" do GitHub
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'assets/update_readme.py'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python assets/update_readme.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          # Só faz o commit se houver alterações no arquivo
+          git commit -m "docs: auto-update SysAdmin repos list" || echo "No changes to commit"
+          git push
