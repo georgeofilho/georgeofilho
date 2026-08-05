@@ -138,6 +138,7 @@ Sou um profissional apaixonado por tecnologia e por ajudar as pessoas. Essa comb
   - [Ferramenta-de-Suporte](https://github.com/georgeofilho/Ferramenta-de-Suporte) - Sem descrição
 
 
+
   <!-- END_SYSADMIN_REPOS -->
 
 - 📊 **Templates para Zabbix** | Modelos personalizados de monitoramento para equipamentos de rede:
@@ -145,11 +146,13 @@ Sou um profissional apaixonado por tecnologia e por ajudar as pessoas. Essa comb
   - _Nenhum repositório com a tag zabbix-templates encontrado no momento._
 
 
+
   <!-- END_ZABBIX_TEMPLATES_REPOS -->
 
 - 🧩 **Modulos para Zabbix** | Modulos personalizados para automação de tarefas no Zabbix:
   <!-- START_ZABBIX_MODULES_REPOS -->
   - _Nenhum repositório com a tag zabbix-module encontrado no momento._
+
 
 
   <!-- END_ZABBIX_MODULES_REPOS -->
