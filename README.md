@@ -22,7 +22,7 @@ Sou um profissional apaixonado por tecnologia e por ajudar as pessoas. Essa comb
 - 🛠️ Atuação com ferramentas de virtualização (**VMware, Hyper-V, Proxmox**) e monitoramento (**Zabbix, Nagios**).
 - 🔌 Instalação, configuração e manutenção de equipamentos de rede, routers, switches (Cisco, Mikrotik, Fortigate), servidores e cabeamento estruturado.
 - ☁️ Conhecimentos em Cloud, Storage e Docker.
-- 📞 Experiência prévia com sistemas de Help Desk, sistemas de gerenciamento CCTV, implantação de novas tecnologias e suporte técnico local e remoto.
+- 📞 Experiência prévia com sistemas de Help Desk, implantação de novas tecnologias e suporte técnico local e remoto.
 
 ---
 
@@ -137,20 +137,17 @@ Sou um profissional apaixonado por tecnologia e por ajudar as pessoas. Essa comb
   - [Ping-em-Lote](https://github.com/georgeofilho/Ping-em-Lote) - Sem descrição
   - [Ferramenta-de-Suporte](https://github.com/georgeofilho/Ferramenta-de-Suporte) - Sem descrição
 
-
   <!-- END_SYSADMIN_REPOS -->
 
 - 📊 **Templates para Zabbix** | Modelos personalizados de monitoramento para equipamentos de rede:
   <!-- START_ZABBIX_TEMPLATES_REPOS -->
   - _Nenhum repositório com a tag zabbix-templates encontrado no momento._
 
-
   <!-- END_ZABBIX_TEMPLATES_REPOS -->
 
 - 🧩 **Modulos para Zabbix** | Modulos personalizados para automação de tarefas no Zabbix:
   <!-- START_ZABBIX_MODULES_REPOS -->
   - _Nenhum repositório com a tag zabbix-module encontrado no momento._
-
 
   <!-- END_ZABBIX_MODULES_REPOS -->
 
