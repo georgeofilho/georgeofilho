@@ -139,6 +139,7 @@ Sou um profissional apaixonado por tecnologia e por ajudar as pessoas. Essa comb
 
 
 
+
   <!-- END_SYSADMIN_REPOS -->
 
 - 📊 **Templates para Zabbix** | Modelos personalizados de monitoramento para equipamentos de rede:
@@ -147,11 +148,13 @@ Sou um profissional apaixonado por tecnologia e por ajudar as pessoas. Essa comb
 
 
 
+
   <!-- END_ZABBIX_TEMPLATES_REPOS -->
 
 - 🧩 **Modulos para Zabbix** | Modulos personalizados para automação de tarefas no Zabbix:
   <!-- START_ZABBIX_MODULES_REPOS -->
   - _Nenhum repositório com a tag zabbix-module encontrado no momento._
+
 
 
 
