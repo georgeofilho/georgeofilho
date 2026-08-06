@@ -2,7 +2,7 @@ name: Update README with SysAdmin Repos
 
 on:
   schedule:
-    - cron: '0 * * * *' # Executa de hora em hora (no minuto 0 de cada hora)
+    - cron: '0 0 */2 * *' #Executa a cada 2 dias a meia noite
   workflow_dispatch: # Permite executar o script manualmente pela aba "Actions" do GitHub
   push:
     branches:
