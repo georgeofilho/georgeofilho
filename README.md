@@ -147,11 +147,13 @@ Sou um profissional apaixonado por tecnologia e por ajudar as pessoas. Essa comb
 
 
 
+
   <!-- END_SYSADMIN_REPOS -->
 
 - 📊 **Templates para Zabbix** | Modelos personalizados de monitoramento para equipamentos de rede:
   <!-- START_ZABBIX_TEMPLATES_REPOS -->
   - _Nenhum repositório com a tag zabbix-templates encontrado no momento._
+
 
 
 
@@ -174,6 +176,7 @@ Sou um profissional apaixonado por tecnologia e por ajudar as pessoas. Essa comb
   - [Zabbix-Module-DataBase-Monitoring](https://github.com/georgeofilho/Zabbix-Module-DataBase-Monitoring) - The Database Monitoring Manager is a module for the Zabbix web interface that simplifies and centralizes the management of database monitoring. With a modern and intuitive interface, it allows you to enable Deep Observability for MySQL, PostgreSQL, and MS SQL Server on your hosts using the official Zabbix Agent 2 templates.
   - [Zabbix-Module-Service-Manager](https://github.com/georgeofilho/Zabbix-Module-Service-Manager) - Zabbix Service Manager is a modern and intuitive module for the Zabbix Web Interface designed to add specific service monitoring capabilities directly to hosts. It seamlessly integrates into the Zabbix UI, adding a dedicated view for managing and monitoring host-specific services.
   - [Zabbix-Module-Reports](https://github.com/georgeofilho/Zabbix-Module-Reports) - Zabbix Reports is a modern and intuitive module for the Zabbix Web Interface focused on generating and visualizing management reports (daily, weekly, and monthly). It provides a rich, SaaS-inspired interface with dynamic statistics cards, charts, and detailed tables.
+
 
 
 
